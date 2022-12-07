@@ -20,6 +20,10 @@
 
 [Native CSS Masonry Layout In CSS Grid by Rachel Andrew (November 2, 2020)](https://www.smashingmagazine.com/native-css-masonry-layout-css-grid/)
 
+[The New CSS Media Query Range Syntax ](https://css-tricks.com/the-new-css-media-query-range-syntax/)
+
+[Understanding JavaScript Constructors ](https://css-tricks.com/understanding-javascript-constructors/)
+
 # CSS 2022 (personal predictions by Bramus Van Damme)
 
 ## Container queries
