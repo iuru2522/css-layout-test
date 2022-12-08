@@ -24,6 +24,14 @@
 
 [Understanding JavaScript Constructors ](https://css-tricks.com/understanding-javascript-constructors/)
 
+More here:
+
+[Console API](https://developer.mozilla.org/en-US/docs/Web/API/Console)
+
+[Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+
+[Event](https://developer.mozilla.org/en-US/docs/Web/API/Event)
+
 # CSS 2022 (personal predictions by Bramus Van Damme)
 
 ## Container queries
