@@ -34,19 +34,19 @@ More here:
 
 # CSS 2022 (personal predictions by Bramus Van Damme)
 
-## Container queries
+[Container queries](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Container_Queries)
 
-## Cascade layers
+[Cascade layers](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_layers)
 
-## Color functions
+[Color functions(experimental)](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value/color)
+
+[Subgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid)
 
 ## New viewport units
 
 ## :has()
 
 ## Overscroll behaviour
-
-## Subgrid
 
 ## Accent color
 
