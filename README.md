@@ -44,10 +44,10 @@ More here:
 
 ## New viewport units
 
-## :has()
+[:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
 
-## Overscroll behaviour
+[Overscroll behaviour](https://developer.mozilla.org/en-US/docs/Web/CSS/overscroll-behavior)
 
-## Accent color
+[Accent color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
 
 ## Media query ranges
