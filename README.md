@@ -42,7 +42,7 @@ More here:
 
 [Subgrid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Subgrid)
 
-## New viewport units
+[New viewport units](https://www.w3.org/TR/css-values-4/#viewport-relative-lengths)
 
 [:has()](https://developer.mozilla.org/en-US/docs/Web/CSS/:has)
 
@@ -50,4 +50,4 @@ More here:
 
 [Accent color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
 
-## Media query ranges
+[Media query ranges](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/)
