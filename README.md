@@ -51,3 +51,9 @@ More here:
 [Accent color](https://developer.mozilla.org/en-US/docs/Web/CSS/accent-color)
 
 [Media query ranges](https://www.bram.us/2021/10/26/media-queries-level-4-media-query-range-contexts/)
+
+# later to read
+
+[Some Links on AI-Related Stuff](https://css-tricks.com/some-links-on-ai-related-stuff/)
+
+[A Conversation With ChatGPT by Matthias Ott](https://matthiasott.com/notes/a-conversation-with-chatgpt)
