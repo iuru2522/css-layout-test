@@ -57,3 +57,5 @@ More here:
 [Some Links on AI-Related Stuff](https://css-tricks.com/some-links-on-ai-related-stuff/)
 
 [A Conversation With ChatGPT by Matthias Ott](https://matthiasott.com/notes/a-conversation-with-chatgpt)
+
+[https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/](https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/)
