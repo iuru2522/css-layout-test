@@ -58,4 +58,6 @@ More here:
 
 [A Conversation With ChatGPT by Matthias Ott](https://matthiasott.com/notes/a-conversation-with-chatgpt)
 
-[https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/](https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/)
+[I just used ChatGPT to help with a complicated equation](https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/)
+
+[Midjourney vs. human illustrators: has AI already won?](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won)
