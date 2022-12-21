@@ -61,3 +61,5 @@ More here:
 [I just used ChatGPT to help with a complicated equation](https://www.reddit.com/r/Notion/comments/zjmuls/i_just_used_chatgpt_to_help_with_a_complicated/)
 
 [Midjourney vs. human illustrators: has AI already won?](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won)
+
+[Help choose the syntax for CSS Nesting ](https://css-tricks.com/help-choose-the-syntax-for-css-nesting/)
