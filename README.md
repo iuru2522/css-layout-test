@@ -63,3 +63,5 @@ More here:
 [Midjourney vs. human illustrators: has AI already won?](https://evilmartians.com/chronicles/midjourney-vs-human-illustrators-has-ai-already-won)
 
 [Help choose the syntax for CSS Nesting ](https://css-tricks.com/help-choose-the-syntax-for-css-nesting/)
+
+[2022 Roundup of Web Research ](https://css-tricks.com/2022-roundup-of-web-research/)
