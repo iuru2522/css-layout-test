@@ -68,8 +68,14 @@ More here:
 
 [2022 Roundup of Web Research](https://css-tricks.com/2022-roundup-of-web-research/)
 
-#2023 
+# 2023 
 
 [OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
 
 [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
+
+# AMAZON Links 
+
+[Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket#bottlerocket-os)
+
+[Amazon Linux 2023](https://aws.amazon.com/linux/amazon-linux-2023/)
