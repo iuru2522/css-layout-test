@@ -79,3 +79,5 @@ More here:
 [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket#bottlerocket-os)
 
 [Amazon Linux 2023](https://aws.amazon.com/linux/amazon-linux-2023/)
+
+[create_instance (AWS boto3 docs)](https://boto3.amazonaws.com/v1/documentation/api/latest/reference/services/ec2/service-resource/create_instances.html)
