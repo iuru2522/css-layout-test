@@ -1,4 +1,4 @@
-# Articles to refresh:
+ Articles to refresh:
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
@@ -66,4 +66,10 @@ More here:
 
 [Where Do You Nest Your Sass Breakpoints? ](https://css-tricks.com/where-do-you-nest-your-sass-breakpoints/)
 
-[2022 Roundup of Web Research ](https://css-tricks.com/2022-roundup-of-web-research/)
+[2022 Roundup of Web Research](https://css-tricks.com/2022-roundup-of-web-research/)
+
+#2023 
+
+[OKLCH in CSS: why we moved from RGB and HSL](https://evilmartians.com/chronicles/oklch-in-css-why-quit-rgb-hsl)
+
+[The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
