@@ -87,3 +87,5 @@ More here:
 [IAM Roles (AWS)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html)
 
 [IAM Identities (users, user groups, and roles)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
+
+[The truth about CSS selector performance (by Patrick Brosset)](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
