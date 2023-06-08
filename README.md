@@ -74,6 +74,11 @@ More here:
 
 [The JavaScript Ecosystem Is Delightfully Weird](https://fly.io/blog/js-ecosystem-delightfully-wierd/)
 
+[A modern CSS gradient and color picking tool](https://twitter.com/argyleink/status/1649124742463623169)
+
+[Node.js 20 Now Available (April 18, 2023)](https://openjsf.org/blog/2023/04/18/node-js-20-now-available/)
+
+
 # AMAZON Links 
 
 [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket#bottlerocket-os)
@@ -89,3 +94,8 @@ More here:
 [IAM Identities (users, user groups, and roles)](https://docs.aws.amazon.com/IAM/latest/UserGuide/id.html)
 
 [The truth about CSS selector performance (by Patrick Brosset)](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
+
+
+
+
+
