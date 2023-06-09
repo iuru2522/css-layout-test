@@ -78,6 +78,11 @@ More here:
 
 [Node.js 20 Now Available (April 18, 2023)](https://openjsf.org/blog/2023/04/18/node-js-20-now-available/)
 
+[CSS Display Module Level 3](https://drafts.csswg.org/css-display/#display-value-summary
+)
+
+[Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/)
+
 
 # AMAZON Links 
 
