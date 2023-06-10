@@ -81,7 +81,7 @@ More here:
 [CSS Display Module Level 3](https://drafts.csswg.org/css-display/#display-value-summary
 )
 
-[Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/)
+[Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/cte)
 
 
 # AMAZON Links 
@@ -100,7 +100,13 @@ More here:
 
 [The truth about CSS selector performance (by Patrick Brosset)](https://blogs.windows.com/msedgedev/2023/01/17/the-truth-about-css-selector-performance/)
 
+[An overview of HTTP(MDN)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
+[Amazon EC2 key pairs and Linux instances. Accessed. June 2021](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-key-pairs.html?icmpid=docs_ec2_console)
+
+[Amazon EC2 security groups for Linux instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-security-groups.html)
+
+[Security group connection tracking](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-connection-tracking.html)
 
 
 
