@@ -83,6 +83,8 @@ More here:
 
 [Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/cte)
 
+[https://datatracker.ietf.org/doc/html/rfc4253](The Secure Shell (SSH) Transport Layer Protocol)
+
 
 # AMAZON Links 
 
@@ -108,5 +110,6 @@ More here:
 
 [Security group connection tracking](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/security-group-connection-tracking.html)
 
+[Control traffic to your AWS resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups)
 
 
