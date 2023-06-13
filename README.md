@@ -112,4 +112,8 @@ More here:
 
 [Control traffic to your AWS resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups)
 
+# 12 JUNE 2023
 
+[https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups](Control traffic to your AWS resources using security groups)
+
+[https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison](Internetwork traffic privacy in Amazon VPC)
