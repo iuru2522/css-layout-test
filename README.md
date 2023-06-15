@@ -78,13 +78,17 @@ More here:
 
 [Node.js 20 Now Available (April 18, 2023)](https://openjsf.org/blog/2023/04/18/node-js-20-now-available/)
 
-[CSS Display Module Level 3](https://drafts.csswg.org/css-display/#display-value-summary
-)
+[CSS Display Module Level 3](https://drafts.csswg.org/css-display/#display-value-summary)
 
 [Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/cte)
 
 [https://datatracker.ietf.org/doc/html/rfc4253](The Secure Shell (SSH) Transport Layer Protocol)
 
+# 14 JUNE 2023
+
+[Web Apps on macOS Sonoma 14 Beta](https://blog.tomayac.com/2023/06/07/web-apps-on-macos-sonoma-14-beta/)
+
+[iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
 
 # AMAZON Links 
 
@@ -114,6 +118,7 @@ More here:
 
 # 12 JUNE 2023
 
-[https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups](Control traffic to your AWS resources using security groups)
+[Control traffic to your AWS resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups)
 
-[https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison](Internetwork traffic privacy in Amazon VPC)
+[Internetwork traffic privacy in Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison)
+
