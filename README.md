@@ -90,6 +90,11 @@ More here:
 
 [iOS 17 automatically removes tracking parameters from links you click on](https://9to5mac.com/2023/06/08/ios-17-link-tracking-protection/)
 
+[What's New in DevTools (Chrome 114)](https://developer.chrome.com/blog/new-in-devtools-114/)
+
+[What's New in DevTools (Chrome 115)](https://developer.chrome.com/en/blog/new-in-devtools-115/)
+
+
 # AMAZON Links 
 
 [Bottlerocket OS](https://github.com/bottlerocket-os/bottlerocket#bottlerocket-os)
