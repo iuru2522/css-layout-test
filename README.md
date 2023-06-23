@@ -81,7 +81,6 @@ More here:
 [CSS Display Module Level 3](https://drafts.csswg.org/css-display/#display-value-summary)
 
 [Digging Into The Display Property: The Two Values Of Display](https://www.smashingmagazine.com/2019/04/display-two-value/cte)
-
 [https://datatracker.ietf.org/doc/html/rfc4253](The Secure Shell (SSH) Transport Layer Protocol)
 
 # 14 JUNE 2023
@@ -130,3 +129,13 @@ More here:
 # 20 JUNE 2023
 
 [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc/?vpc-blogs.sort-by=item.additionalFields.createdDate&vpc-blogs.sort-order=desc)
+
+## 22 JUNE 2023 from Software Design class (collage)
+
+[Cohesion](https://en.wikipedia.org/wiki/Cohesion_(computer_science))
+
+[Distributed systems](https://en.wikipedia.org/wiki/Distributed_computing)
+
+[Loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
+
+[Java Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
