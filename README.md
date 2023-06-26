@@ -139,3 +139,9 @@ More here:
 [Loose coupling](https://en.wikipedia.org/wiki/Loose_coupling)
 
 [Java Enum Types](https://docs.oracle.com/javase/tutorial/java/javaOO/enum.html)
+
+# 25 JUNE 2023 
+
+[Learn CSS Subgrid](https://ishadeed.com/article/learn-css-subgrid/)
+
+[Chrome for Testing: reliable downloads for browser automation](https://developer.chrome.com/blog/chrome-for-testing/)
