@@ -145,3 +145,10 @@ More here:
 [Learn CSS Subgrid](https://ishadeed.com/article/learn-css-subgrid/)
 
 [Chrome for Testing: reliable downloads for browser automation](https://developer.chrome.com/blog/chrome-for-testing/)
+
+# 28 JUNE 2023
+
+[Introducing the MDN Playground: Bring your code to life!](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
+
+[Meet Safari for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10279/)
+
