@@ -120,13 +120,13 @@ More here:
 
 [Control traffic to your AWS resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups)
 
-# 12 JUNE 2023
+12 JUNE 2023
 
 [Control traffic to your AWS resources using security groups](https://docs.aws.amazon.com/vpc/latest/userguide/vpc-security-groups.html#VPCSecurityGroups)
 
 [Internetwork traffic privacy in Amazon VPC](https://docs.aws.amazon.com/vpc/latest/userguide/VPC_Security.html#VPC_Security_Comparison)
 
-# 20 JUNE 2023
+20 JUNE 2023
 
 [Amazon Virtual Private Cloud](https://aws.amazon.com/vpc/?vpc-blogs.sort-by=item.additionalFields.createdDate&vpc-blogs.sort-order=desc)
 
@@ -151,4 +151,10 @@ More here:
 [Introducing the MDN Playground: Bring your code to life!](https://developer.mozilla.org/en-US/blog/introducing-the-mdn-playground/)
 
 [Meet Safari for spatial computing](https://developer.apple.com/videos/play/wwdc2023/10279/)
+
+29 JUNE 2023
+
+[Subnets for your VPC](https://docs.aws.amazon.com/vpc/latest/userguide/configure-subnets.html)
+
+[Special Use IPv4 Addresses (RFC)](https://www.rfc-editor.org/rfc/rfc5735) 
 
