@@ -158,3 +158,8 @@ More here:
 
 [Special Use IPv4 Addresses (RFC)](https://www.rfc-editor.org/rfc/rfc5735) 
 
+07 JULY 2023
+
+From Software Design Class 
+
+[UML 2 Class Diagramming Guidelines](http://agilemodeling.com/style/classDiagram.htm)
