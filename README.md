@@ -163,3 +163,12 @@ More here:
 From Software Design Class 
 
 [UML 2 Class Diagramming Guidelines](http://agilemodeling.com/style/classDiagram.htm)
+
+17 JULY 2023
+
+[Amazon S3 bucket](https://aws.amazon.com/s3/)
+
+
+
+
+
