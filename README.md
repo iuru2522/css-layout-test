@@ -169,6 +169,10 @@ From Software Design Class
 [Amazon S3 bucket](https://aws.amazon.com/s3/)
 
 
+18 JULY 2023
 
+From Web dev class
+
+[PDO PHP](https://www.php.net/manual/en/book.pdo.php)
 
 
