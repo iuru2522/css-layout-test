@@ -178,3 +178,8 @@ From Web dev class
 19 JULY 2023
 
 [Database (dbm-style) Abstraction Layer](https://www.php.net/manual/en/book.dba.php)
+
+20 JULY 2023
+
+[Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+
