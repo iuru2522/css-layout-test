@@ -183,3 +183,12 @@ From Web dev class
 
 [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
 
+# 21 JULY 2023
+
+Java Project:
+
+[JAVAFX Table View](https://docs.oracle.com/javafx/2/ui_controls/table-view.htm)
+
+[JAVAFX Pane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/Pane.html)
+
+[JAVAFX GridPane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/GridPane.html)]
