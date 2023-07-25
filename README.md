@@ -191,4 +191,11 @@ Java Project:
 
 [JAVAFX Pane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/Pane.html)
 
-[JAVAFX GridPane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/GridPane.html)]
+[JAVAFX GridPane](https://docs.oracle.com/javase/8/javafx/api/javafx/scene/layout/GridPane.html)
+
+# 24 JULY 2023
+
+[Create and Connect to a PostgreSQL Database with Amazon RDS](https://aws.amazon.com/getting-started/hands-on/create-connect-postgresql-db/)
+
+[S3 AWS](https://aws.amazon.com/s3/)
+
