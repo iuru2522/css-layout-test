@@ -203,3 +203,20 @@ Java Project:
 
 [Using cross-origin resource sharing (CORS)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
 
+# 25 JULY 2023
+
+Official Java documentation:
+
+[Introduction to Event Listeners](https://docs.oracle.com/javase/tutorial/uiswing/events/intro.html)
+
+[Implementing Listeners for Commonly Handled Events](https://docs.oracle.com/javase/tutorial/uiswing/events/handling.html)
+
+Web development course:
+
+[PHP User Naming Guide](https://www.php.net/manual/en/userlandnaming.rules.php)
+
+[MySQL](https://www.w3schools.com/mysql/mysql_sql.asp)
+
+[phpmyadmin ukr](https://docs.phpmyadmin.net/uk/latest/)
+
+
