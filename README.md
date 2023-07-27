@@ -199,3 +199,7 @@ Java Project:
 
 [S3 AWS](https://aws.amazon.com/s3/)
 
+[CORS](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
+[Using cross-origin resource sharing (CORS)](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cors.html)
+
