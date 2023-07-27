@@ -1,4 +1,4 @@
- Articles to refresh:
+ erticles to refresh:
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
@@ -219,4 +219,6 @@ Web development course:
 
 [phpmyadmin ukr](https://docs.phpmyadmin.net/uk/latest/)
 
+# 26 JULY 2023
 
+[Linux Regular Expression Tutorial: Grep Regex Example](https://www.guru99.com/linux-regular-expressions.html)
