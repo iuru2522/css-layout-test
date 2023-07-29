@@ -222,3 +222,11 @@ Web development course:
 # 26 JULY 2023
 
 [Linux Regular Expression Tutorial: Grep Regex Example](https://www.guru99.com/linux-regular-expressions.html)
+
+# 28 JULY 2023
+
+Software design class:
+
+[Factory Pattern Java](https://refactoring.guru/design-patterns/factory-method/java/example)
+
+[Singleton Pattern Java](https://refactoring.guru/design-patterns/singleton/java/example)
