@@ -1,4 +1,4 @@
- erticles to refresh:
+ esrticles to refresh:
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
@@ -230,3 +230,9 @@ Software design class:
 [Factory Pattern Java](https://refactoring.guru/design-patterns/factory-method/java/example)
 
 [Singleton Pattern Java](https://refactoring.guru/design-patterns/singleton/java/example)
+
+# 31 JULY 2023
+
+from TELE CLASS
+
+[AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
