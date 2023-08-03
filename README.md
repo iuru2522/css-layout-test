@@ -1,4 +1,3 @@
- esrticles to refresh:
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
 
@@ -236,3 +235,13 @@ Software design class:
 from TELE CLASS
 
 [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/)
+
+# 02 AUG 2023
+
+from LINUX class
+
+[bc(1p) — Linux manual page](https://man7.org/linux/man-pages/man1/bc.1p.html)
+
+[Here document](https://en.wikipedia.org/wiki/Here_document)
+
+[Wildcard character](https://en.wikipedia.org/wiki/Wildcard_character)
