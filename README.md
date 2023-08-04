@@ -244,4 +244,10 @@ from LINUX class
 
 [Here document](https://en.wikipedia.org/wiki/Here_document)
 
-[Wildcard character](https://en.wikipedia.org/wiki/Wildcard_character)
+[Wildcard character](https://en.wikipedia.org/wiki/Wildcard_character
+
+03 AUG 2023
+
+[Google I/O](https://io.google/2023/)
+
+[Comma AI](https://comma.ai/)
