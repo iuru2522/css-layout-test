@@ -250,4 +250,12 @@ from LINUX class
 
 [Google I/O](https://io.google/2023/)
 
-[Comma AI](https://comma.ai/)
+[Comma AI](https://comma.ai/
+
+04 AUG 2023
+
+from Software design class
+
+[SOLID](https://www.baeldung.com/solid-principles)y
+
+[DRY](https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle)
