@@ -256,6 +256,12 @@ from LINUX class
 
 from Software design class
 
-[SOLID](https://www.baeldung.com/solid-principles)y
+[SOLID](https://www.baeldung.com/solid-principles)
 
 [DRY](https://www.plutora.com/blog/understanding-the-dry-dont-repeat-yourself-principle)
+
+08 AUG 2023
+
+[Chapter 3 Entering Queries (Official)](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/entering-queries.html)
+
+[Chapter 5 Getting Information About Databases and Tables (Official)](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/getting-information.html)
