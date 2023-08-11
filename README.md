@@ -265,3 +265,15 @@ from Software design class
 [Chapter 3 Entering Queries (Official)](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/entering-queries.html)
 
 [Chapter 5 Getting Information About Databases and Tables (Official)](https://dev.mysql.com/doc/mysql-tutorial-excerpt/8.0/en/getting-information.html)
+
+10 AUG 2023
+
+for web dev exam
+
+[MySQL Improved Extension](https://www.php.net/manual/en/book.mysqli.php)
+
+[Arrays PHP](https://www.php.net/manual/en/language.types.array.php)
+
+[Filesystem Functions](https://www.php.net/manual/en/ref.filesystem.php)
+
+[Error Handling Functions](https://www.php.net/manual/en/ref.errorfunc.php)
