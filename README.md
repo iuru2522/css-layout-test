@@ -277,3 +277,8 @@ for web dev exam
 [Filesystem Functions](https://www.php.net/manual/en/ref.filesystem.php)
 
 [Error Handling Functions](https://www.php.net/manual/en/ref.errorfunc.php)
+
+
+11 AUG 2023
+
+[Deploy Docker Containers on Amazon ECS](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/)
