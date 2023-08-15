@@ -282,3 +282,10 @@ for web dev exam
 11 AUG 2023
 
 [Deploy Docker Containers on Amazon ECS](https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/)
+
+14 AUG 2023
+
+[What is AWS CloudFormation?](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/Welcome.html)
+
+[MySQL Improved Extension](https://www.php.net/manual/en/book.mysqli.php)
+
