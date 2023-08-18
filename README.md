@@ -292,3 +292,9 @@ for web dev exam
 16 AUG 2023
 
 [Spring Boot Reference Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
+
+17 AUG 2023
+
+[Jest JS Testing](https://jestjs.io/)
+
+[nextjs server-side](https://nestjs.com/)
