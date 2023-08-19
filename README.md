@@ -298,3 +298,11 @@ for web dev exam
 [Jest JS Testing](https://jestjs.io/)
 
 [nextjs server-side](https://nestjs.com/)
+
+18 AUG 2023
+
+Testing:
+
+[JSLint](https://www.jslint.com/)
+
+[ESLint](https://eslint.org/)
