@@ -317,3 +317,16 @@ link for the booking service using nodejs
 [Java Spring Bean](https://www.baeldung.com/spring-bean)
 
 [Java Spring HTTP](https://www.baeldung.com/java-http-request)
+
+23 AUG 2023
+
+[Spring Framework Reference Documentation](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/index.html)
+
+[5. The IoC container](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/beans.html)
+
+[Intro to Inversion of Control and Dependency Injection with Spring](https://www.baeldung.com/inversion-control-and-dependency-injection-in-spring)
+
+[Data access with JDBC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/jdbc.html#jdbc-introduction)
+
+[Java JDBC API (from Oracle)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
+
