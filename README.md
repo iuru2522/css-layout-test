@@ -311,3 +311,9 @@ Testing:
 
 link for the booking service using nodejs 
 [Node.js quickstart GCP](https://developers.google.com/calendar/api/quickstart/nodejs)
+
+22 AUG 2023
+
+[Java Spring Bean](https://www.baeldung.com/spring-bean)
+
+[Java Spring HTTP](https://www.baeldung.com/java-http-request)
