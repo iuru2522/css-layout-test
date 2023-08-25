@@ -330,3 +330,8 @@ link for the booking service using nodejs
 
 [Java JDBC API (from Oracle)](https://docs.oracle.com/javase/8/docs/technotes/guides/jdbc/)
 
+24 AUG 2023
+
+[Spring Path Variable](https://www.baeldung.com/spring-requestparam-vs-pathvariable)
+
+[Spring Forms](https://www.baeldung.com/spring-mvc-form-tutorial)
