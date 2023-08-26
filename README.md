@@ -335,3 +335,9 @@ link for the booking service using nodejs
 [Spring Path Variable](https://www.baeldung.com/spring-requestparam-vs-pathvariable)
 
 [Spring Forms](https://www.baeldung.com/spring-mvc-form-tutorial)
+
+25 AUG 2023
+
+[Spring session](https://docs.spring.io/spring-session/reference/2.7/)
+
+[Spring JDBC](https://www.baeldung.com/spring-jdbc-jdbctemplate)
