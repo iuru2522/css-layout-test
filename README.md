@@ -341,3 +341,10 @@ link for the booking service using nodejs
 [Spring session](https://docs.spring.io/spring-session/reference/2.7/)
 
 [Spring JDBC](https://www.baeldung.com/spring-jdbc-jdbctemplate)
+
+30 AUG 2023
+
+[Spring Security (samples)](https://spring.io/projects/spring-security#samples)
+
+[Getting Spring Security](https://docs.spring.io/spring-security/reference/getting-spring-security.html)
+
