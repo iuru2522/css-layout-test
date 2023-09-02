@@ -348,3 +348,9 @@ link for the booking service using nodejs
 
 [Getting Spring Security](https://docs.spring.io/spring-security/reference/getting-spring-security.html)
 
+01 SEP 2023
+
+[Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
+
+[]()
+
