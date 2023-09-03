@@ -352,5 +352,7 @@ link for the booking service using nodejs
 
 [Spring Security Architecture](https://spring.io/guides/topicals/spring-security-architecture/)
 
-[]()
+
+02 SEP 2023
+[Quick Guide on Loading Initial](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 
