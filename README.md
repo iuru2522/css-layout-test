@@ -356,3 +356,8 @@ link for the booking service using nodejs
 02 SEP 2023
 [Quick Guide on Loading Initial](https://www.baeldung.com/spring-boot-data-sql-and-schema-sql)
 
+04 SEP 2023
+
+[Data (computer science)](https://en.wikipedia.org/wiki/Data_(computer_science))
+
+[Download and install Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall)
