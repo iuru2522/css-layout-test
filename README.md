@@ -361,3 +361,10 @@ link for the booking service using nodejs
 [Data (computer science)](https://en.wikipedia.org/wiki/Data_(computer_science))
 
 [Download and install Azure Data Studio](https://learn.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver16&tabs=redhat-install%2Credhat-uninstall)
+
+
+05 SEP 2023
+
+[What is a REST API? ](https://www.ibm.com/topics/rest-apis)
+
+[OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification/blob/main/versions/3.0.2.md)
